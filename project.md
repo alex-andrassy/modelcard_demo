@@ -3,6 +3,7 @@ layout: project_page
 title: X-Ray Occult Carpal Detection
 status: Developing
 image: /assets/img/projects/xray_carpel.jpg
+csc-lead: test
 summary: A computer aided diagnosis tool which would automatically run when a scaphoid fracture is suspected.
 modality: X-ray
 pathology: Occult carpal fractures (wrist and hands)
