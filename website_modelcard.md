@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: project_page
 title: PROJECT TITLE
 name: DEVICE
 status: Developing
-image: /assets/img/projects/xray_carpel.jpg
+image: /modelcard_demo/assets/img/projects/xray_carpel.jpg
 summary: SUMMARY
 modality: X-ray
 pathology: PATHOLOGY
