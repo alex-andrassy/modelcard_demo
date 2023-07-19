@@ -1,5 +1,5 @@
 ---
-layout: project_page
+layout: default
 title: PROJECT TITLE
 name: DEVICE
 status: Developing
