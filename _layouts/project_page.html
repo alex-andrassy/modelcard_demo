@@ -8,6 +8,10 @@ layout: default
     <p><b>Modality:</b> {{ page.modality }}</p>
     <p><b>Model Architecture:</b> {{ page.model }}</p>
     <h3>Training Dataset</h3>
+    <p>{{ page.training-data }}</p>
+    <p>{{ page.train_data_excl }}</p>
+    <p><b>Input Data Type:</b> {{ page.train_input }}</p>
+    <p><b>Dataset Size:</b> {{ page.train_size }}</p>
     <img src={{ page.sex_graph }}>
     <img src={{ page.ethn_graph }}>
     <img src={{ page.age_graph }}>
