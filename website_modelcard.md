@@ -1,14 +1,15 @@
 ---
 layout: project_page
 title: PROJECT TITLE
-devicename: DEVICE
+devicename: ScaphX
 status: Developing
-image: /xmodelcard_demo/assets/img/projects/xray_carpel.jpg
-sexgraph: /modelcard_demo/assets/images/sex_hist.jpg
-ethnicitygraph: /modelcard_demo/assets/images/ethnicity_hist.jpg
-agegraph: /modelcard_demo/assets/images/age_hist.jpg
-summary: SUMMARY
+image: /assets/img/projects/IMAGE_TITLE.jpg
+sex_graph: /modelcard_demo/assets/images/sex_graph.jpg
+ethn_graph: /modelcard_demo/assets/images/ethn_graph.jpg
+age_graph: /modelcard_demo/assets/images/age_graph.jpg
+summary: ScaphX offers real-time decision support for the detection of scaphoid fractures. The application interprets wrist x-rays to increase the accuracy and confidence of diagnosis, enabling rapid turnaround treatment with discharge or appropriate further management of these patients.
 modality: X-ray
+model: One line about the model architecture.
 pathology: PATHOLOGY
 rationale: RATIONALE
 patient-pathway: PATHWAY
@@ -23,4 +24,3 @@ alternatives: <a href="http://www.gleamer.ai/">Gleamer</a>, which specialise in 
 
 
 ---
-image test
