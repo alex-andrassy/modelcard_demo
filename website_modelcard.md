@@ -1,5 +1,5 @@
 ---
-layout: project_page2
+layout: project_page
 title: PROJECT TITLE
 devicename: DEVICE
 status: Developing
