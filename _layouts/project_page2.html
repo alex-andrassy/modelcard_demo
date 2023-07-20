@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="container" id="pagecontainer">
+    <h1>{{ page.name }}</h1>
+    <p>{{ page.summary }}</p>
+    <p><b>Modality:</b> {{ page.modality }}</p>
+    <h3>Training Dataset</h3>
+    <p>{{ page.training-data }}</p>
+    <img src={{ page.sexgraph }}>
+    <img src={{ page.ethnicitygraph }}>
+    <img src={{ page.agegraph }}>
+</div>
