@@ -3,7 +3,7 @@ layout: project_page
 title: PROJECT TITLE
 devicename: ScaphX
 status: Developing
-image: /assets/img/projects/IMAGE_TITLE.jpg
+image: /assets/images/xray_carpel.jpg
 sex_graph: /modelcard_demo/assets/images/sex_graph.jpg
 ethn_graph: /modelcard_demo/assets/images/ethn_graph.jpg
 age_graph: /modelcard_demo/assets/images/age_graph.jpg
