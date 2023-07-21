@@ -9,7 +9,7 @@ ethn_graph: /modelcard_demo/assets/images/ScaphX_ethn_graph.png
 age_graph: /modelcard_demo/assets/images/ScaphX_age_graph.png
 summary: ScaphX offers real-time decision support for the detection of scaphoid fractures. The application interprets wrist x-rays to increase the accuracy and confidence of diagnosis, enabling rapid turnaround treatment with discharge or appropriate further management of these patients.
 modality: X-ray
-model: A line about the model architecture.
+model: U-net
 pathology: PATHOLOGY
 rationale: RATIONALE
 patient-pathway: PATHWAY
